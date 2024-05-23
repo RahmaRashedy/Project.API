@@ -1,0 +1,6 @@
+@Project.API.Last_HostAddress = http://localhost:5156
+
+GET {{Project.API.Last_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
